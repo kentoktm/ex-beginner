@@ -1,11 +1,11 @@
-package com.controller;
+package com.example.exbeginner.controller;
 
-public class exam01ReceiveForm {
+public class Exam01 {
     private String name;
 
     @Override
     public String toString() {
-        return "exam01ReceiveForm [name=" + name + "]";
+        return "Exam01 [name=" + name + "]";
     }
 
     public String getName() {

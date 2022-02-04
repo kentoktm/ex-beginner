@@ -4,7 +4,8 @@ spring:
     url: jdbc:postgresql://localhost:5432/student
     username: postgres
     password: postgres
-server:
+server: 
   servlet:
-    context-path: /ex-beginner/
+    context-path: /ex-beginner
+
 
